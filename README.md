@@ -2,6 +2,8 @@
 
 _ELC3K Discord Server permanent invite_ :  [ELC Freak's Discord](https://discord.io/ELC3K) [ELC3K](https://discordapp.com/api/guilds/394112667154907139/widget.png?style=banner2)
 
+https://discordapp.com/widget?id=394112667154907139&theme=dark
+
 ### We are an international clan of AMX ELC Bis enthusiasts.
 ### If you like this tank and you want to improve in it, you're very welcome here.
 ### We don't play ClanWars, just good old for-fun platoons with our clan mates.
