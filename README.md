@@ -1,10 +1,9 @@
 # Welcome to ELC3K : ELC Freak 
 
-_ELC3K Discord Server permanent invite_ :  
+_ELC3K Discord Server_ :
 
-[ELC Freak's Discord](https://discord.io/ELC3K) 
+[![ELC3K Discord Widget](https://discordapp.com/api/guilds/394112667154907139/widget.png?style=banner2)](https://discord.io/ELC3K)
 
-![ELC3K Discord Widget](https://discordapp.com/api/guilds/394112667154907139/widget.png?style=banner2)
 
 https://discordapp.com/widget?id=394112667154907139&theme=dark
 
