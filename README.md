@@ -1,13 +1,11 @@
 # Welcome to ELC3K : ELC Freak 
 
 _ELC3K Discord Server permanent invite_ :  [ELC Freak's Discord](https://discord.io/ELC3K) [ELC3K](https://discordapp.com/api/guilds/394112667154907139/widget.png?style=banner2)
-**We are an international clan of AMX ELC Bis enthusiasts.**
 
-**If you like this tank and you want to improve in it, you're very welcome here. **
-
-**We don't play ClanWars, just good old for-fun platoons with our clan mates.**
-
-**We also enjoy playing other types and tiers, but ELC is the king of them all!**
+### We are an international clan of AMX ELC Bis enthusiasts.
+### If you like this tank and you want to improve in it, you're very welcome here.
+### We don't play ClanWars, just good old for-fun platoons with our clan mates.
+### We also enjoy playing other types and tiers, but ELC is the king of them all !
 
 
 Requirements if you wish to join this clan are :
@@ -17,9 +15,9 @@ Requirements if you wish to join this clan are :
  - Good manners and sense of humor
  
 
- `We all represent our Clan, platooned or not, in game or garage, shooting or texting other players.
+ We all represent our Clan, platooned or not, in game or garage, shooting or texting other players.
  Every member of ELC3K is obligated to behave with culture. This is the main rule, thus MUST be respected. 
- We're here to have fun playing, and salt is killing all of it for everyone.`
+ We're here to have fun playing, and salt is killing all of it for everyone.
 
 ### Markdown
 
